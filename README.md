@@ -10,4 +10,5 @@ detects and recognizes numbers on different license plates.
 
 ### Files
 plate_recognition.m  
-template.m
+template.m  
+NewTemplates.mat
