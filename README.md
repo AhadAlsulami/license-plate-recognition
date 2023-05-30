@@ -34,8 +34,8 @@ or the shape of the plates. An experiment of eleven images was as follows:
 
 All license plates were detected and recognized correctly except for numbers 7 and 8, which showed 
 some errors in character recognition. Additionally, we tested the program with Arabic license plates and 
-found the following:
-<img src="https://github.com/AhadAlsulami/license-plate-recognition/assets/99281844/1b5d82e5-1719-4550-80ea-b91e57154bff" width="550">
+found the following:  
+<img src="https://github.com/AhadAlsulami/license-plate-recognition/assets/99281844/df6c1018-3622-4a9c-a636-6e96e094b30d" width="550">
 
 It is evident from the first two images that it is unable to recognize Arabic license plates. The second 
 image was manipulated by removing Arabic alphanumeric, which led to better recognition of characters 
